@@ -25,3 +25,4 @@ need to list all projects in a list box on the left of the screen (as shown belo
 stages of the selected project and the duration from the first event to the last event. The client (Ahmed) didn’t specify
 the GUI that he needs, so, feel free to improvise in terms of your design of the GUI.
 
+![image](https://user-images.githubusercontent.com/106669623/213928720-edc492aa-f74d-466e-b7eb-6f390a6b691c.png)
